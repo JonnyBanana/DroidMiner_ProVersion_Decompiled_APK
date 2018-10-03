@@ -28,7 +28,7 @@ https://www.virustotal.com/#/file/2c5a8bbd71988a5b4788960e6709d9158d9a7c3b688604
 
 </BR></BR>
 
-The funny thing is that if you try to scan the apk (find both files in the folder TESTS !!!) on total virus the file is infected for 19 vendors while if you scan the zip only 10 vendors detect it as malware, it is not the first time it happens, obviously some vendors have trouble detecting viruses with compressed format files...
+The funny thing is that if you try to scan the apk (find both files in the folder TESTS !!!) on total virus the file is infected for 18 vendors while if you scan the zip only 10 vendors detect it as malware, it is not the first time it happens, obviously some vendors have trouble detecting viruses with compressed format files...
 
 https://www.virustotal.com/it/file/ef9f77781471b6c8e584e5a3c29e3c00dfd1ee4dcb6c0e7168d0fd5160e9ebba/analysis/1538536264/
 
@@ -39,7 +39,7 @@ and I disassembled the apk with a simple online service:
 
 http://www.javadecompilers.com/apk
 
-In this way I hope that: A stop breaking my balls, and B that serves high to understand the operation of the crack on android.
+In this way I hope that: A people stop breaking my balls, and B that serves high to understand the operation of the crack on android.
 
 If you need it, in the "TESTS !!" folder! find the apk file already compiled, of the pro version of Droid Miner.
 With this version you can undermine different smartphone and use different workers.
