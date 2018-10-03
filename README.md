@@ -39,7 +39,7 @@ and I decompiled the apk with a simple online service:
 
 http://www.javadecompilers.com/apk
 
-In this way I hope that: A people stop breaking my balls, and B that serves high to understand the operation of the crack on android.
+In this way I hope that: A people stop breaking my balls, and B that serves high to understand how it work an android miner.
 
 If you need it, in the "TESTS !!" folder! find the apk file already compiled, of the pro version of Droid Miner.</BR>
 With this version you can mine with different smartphone and use different workers.</BR>
