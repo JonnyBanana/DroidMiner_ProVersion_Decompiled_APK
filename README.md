@@ -7,6 +7,10 @@ Over the years I have cracked a lot of apps with the mythical Lucky Patcher,
 
 and I've often wondered how his patches worked ...
 
+One day I needed a miner for android and walking around the playstore I saw qyuesta that seemed valid, </BR>
+but I needed the pro version to use different smarphones and workers, so I bought the app </BR>
+and then I created an apk with the permits cracked via lucky patcher
+
 Recently I shared the apk on youtube and of course some users have immediately thought about a malware....
 
 Click on the image below to see the video:
@@ -34,5 +38,11 @@ So I took the opportunity to study a little apk and the code behind it, >/BR>
 and I disblowed the apk with a simple online service:
 
 http://www.javadecompilers.com/apk
+
+In this way I hope that: A stop breaking the balls, and B that serves high to understand the operation of the crack on android.
+
+If you need it, in the "TESTS !!" folder! find the apk file already compiled, of the pro version of Droid Miner.
+With this version you can undermine different smartphone and use different workers.
+Or if you prefer you can obviously compile it yourself (the funny way :) :) :))
 
 
