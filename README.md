@@ -7,7 +7,7 @@ Over the years I have cracked a lot of apps with the mythical Lucky Patcher,
 
 and I've often wondered how his patches worked ...
 
-One day I needed a miner for android and walking around the playstore I saw qyuesta that seemed valid, </BR>
+One day I needed a miner for android and walking around the playstore I saw this that seemed valid, </BR>
 but I needed the pro version to use different smarphones and workers, so I bought the app </BR>
 and then I created an apk with the permits cracked via lucky patcher
 
