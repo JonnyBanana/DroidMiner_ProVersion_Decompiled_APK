@@ -47,7 +47,7 @@ Or if you prefer you can obviously compile it yourself (the funny way :) :) :))
 
 https://m.allfreeapk.com/droidminer-btc-ltc-doge-miner,252154/
 
-And for the record: I tried to download the same apk on another site
+And for the record: I tried to download the same apk on another site</BR>
 and as many as 27 vendors on VirusTotal have detected it as malware!
 
 https://www.virustotal.com/it/file/4b5109927d61090087cdfcd7eacdec5910d9674773bbcac764f8ddf260a55ea2/analysis/1538536221/
