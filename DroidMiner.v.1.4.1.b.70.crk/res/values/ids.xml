@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="relativeLayoutOuter">false</item>
+    <item type="id" name="linar1">false</item>
+    <item type="id" name="editText1">false</item>
+    <item type="id" name="editText">false</item>
+    <item type="id" name="username1">false</item>
+    <item type="id" name="password1">false</item>
+    <item type="id" name="textView4">false</item>
+    <item type="id" name="spinner1">false</item>
+    <item type="id" name="radioButton">false</item>
+    <item type="id" name="radioButton2">false</item>
+    <item type="id" name="LinearLayout02">false</item>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="button2">false</item>
+    <item type="id" name="textView5">false</item>
+    <item type="id" name="scrollView1">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="exit">false</item>
+</resources>

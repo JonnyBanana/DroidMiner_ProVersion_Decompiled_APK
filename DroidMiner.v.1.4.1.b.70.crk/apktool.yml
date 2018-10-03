@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: DroidMiner.v.1.4.1.b.70.crk.LVL.Auto.Removed-by-SaPp0h-$aMa.apk
+compressionType: false
+doNotCompress:
+- arsc
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '16'
+  targetSdkVersion: '21'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.3
+versionInfo:
+  versionCode: '70'
+  versionName: 1.4.1

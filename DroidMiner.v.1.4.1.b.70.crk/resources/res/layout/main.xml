@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/relativeLayoutOuter" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:id="@+id/linar1" android:layout_width="match_parent" android:layout_height="match_parent">
+        <EditText android:id="@+id/editText1" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Mining Pool URL" android:inputType="textNoSuggestions"/>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <EditText android:id="@+id/editText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="Port" android:ems="10" android:singleLine="true" android:layout_weight="2.05" android:inputType="number"/>
+        </LinearLayout>
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+            <EditText android:id="@+id/username1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="Username" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:inputType="none|text|textNoSuggestions|textUri|textEmailAddress|textEmailSubject|textPassword|textVisiblePassword|textWebEditText|textFilter"/>
+        </RelativeLayout>
+        <EditText android:id="@+id/password1" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Password" android:inputType="textPassword">
+            <requestFocus/>
+        </EditText>
+        <TextView android:id="@+id/textView4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Threads:"/>
+        <Spinner android:id="@+id/spinner1" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <RadioGroup android:layout_gravity="left|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                <RadioButton android:id="@+id/radioButton" android:layout_width="wrap_content" android:layout_height="match_parent" android:text="SHA-256" android:onClick="onRadioButtonClicked"/>
+                <RadioButton android:id="@+id/radioButton2" android:layout_width="wrap_content" android:layout_height="match_parent" android:text="Scrypt" android:onClick="onRadioButtonClicked"/>
+            </LinearLayout>
+        </RadioGroup>
+        <LinearLayout android:id="@+id/LinearLayout02" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <Button android:id="@+id/button1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Start" android:layout_weight="1"/>
+            <Button android:enabled="false" android:id="@+id/button2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Stop" android:layout_weight="1"/>
+        </LinearLayout>
+        <TextView android:id="@+id/textView5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Console:"/>
+        <ScrollView android:id="@+id/scrollView1" android:background="#e8e8e8" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="0.06">
+            <TextView android:id="@+id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="0.15"/>
+        </ScrollView>
+    </LinearLayout>
+</RelativeLayout>
