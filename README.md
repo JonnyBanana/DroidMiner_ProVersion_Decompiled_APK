@@ -41,8 +41,8 @@ http://www.javadecompilers.com/apk
 
 In this way I hope that: A people stop breaking my balls, and B that serves high to understand the operation of the crack on android.
 
-If you need it, in the "TESTS !!" folder! find the apk file already compiled, of the pro version of Droid Miner.
-With this version you can undermine different smartphone and use different workers.
+If you need it, in the "TESTS !!" folder! find the apk file already compiled, of the pro version of Droid Miner.</BR>
+With this version you can mine with different smartphone and use different workers.</BR>
 Or if you prefer you can obviously compile it yourself (the funny way :) :) :))
 
 https://m.allfreeapk.com/droidminer-btc-ltc-doge-miner,252154/
