@@ -10,7 +10,9 @@ and I've often wondered how his patches worked ...
 Recently I shared the apk on youtube and of course some users have immediately thought about a malware....
 
 
-<a href="https://www.youtube.com/watch?v=x-78F5PpWZ4&t=12s"></a>
+
+![Alt text](https://www.youtube.com/watch?v=x-78F5PpWZ4&t=12s)
+
 
 
 also because if scanned on virus total 18 antivirus on 61 they detect it as malware (most like Android: BitCoinMiner-R [PUP] or not- a-virus: HEUR: RiskTool.Linux.BitCoinMiner.ao other variants ... some even see it as a trojan :( a little harsh .....)
