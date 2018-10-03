@@ -14,7 +14,9 @@ Click on the image below to see the video:
 [![DroidMiner](https://github.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/blob/master/images/video.jpg)](https://www.youtube.com/watch?v=x-78F5PpWZ4&t=12s)
 
 
-But i think is also because if scanned on virus total 18 antivirus on 61 they detect it as malware (most like Android: BitCoinMiner-R [PUP] or not- a-virus: HEUR: RiskTool.Linux.BitCoinMiner.ao other variants ... some even see it as a trojan :( a little harsh .....)
+But i think is also because if scanned on virus total 18 antivirus on 61 they detect it as malware 
+(most like Android: BitCoinMiner-R [PUP] or not- a-virus: HEUR: RiskTool.Linux.BitCoinMiner.ao other variants ... 
+some even see it as a trojan) A little harsh :( :( :(
 
 https://www.virustotal.com/it/file/2c5a8bbd71988a5b4788960e6709d9158d9a7c3b688604aeae2c7b69e4b0dd7e/analysis/1538536022/
 
