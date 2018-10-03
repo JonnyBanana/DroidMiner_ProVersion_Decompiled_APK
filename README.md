@@ -9,7 +9,7 @@ and I've often wondered how his patches worked ...
 
 One day I needed a miner for android and walking around the playstore I saw this that seemed valid, </BR>
 but I needed the pro version to use different smarphones and workers, so I bought the app </BR>
-and then I created an apk with the permits cracked via lucky patcher
+and then I created an apk with the permits cracked via lucky patcher.
 
 Recently I shared the apk on youtube and of course some users have immediately thought about a malware....
 
