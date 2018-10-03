@@ -22,9 +22,9 @@ But i think is also because if scanned on virus total 18 antivirus on 61 they de
 (most like Android: BitCoinMiner-R [PUP] or not- a-virus: HEUR: RiskTool.Linux.BitCoinMiner.ao </BR>
 or other variants ... some even see it as a trojan) A little harsh :( :( :(
 
-https://www.virustotal.com/it/file/2c5a8bbd71988a5b4788960e6709d9158d9a7c3b688604aeae2c7b69e4b0dd7e/analysis/1538536022/
+https://www.virustotal.com/#/file/2c5a8bbd71988a5b4788960e6709d9158d9a7c3b688604aeae2c7b69e4b0dd7e/detection
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/virustotalscanapk.JPG)
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/apkscan.JPG)
 
 </BR></BR>
 
