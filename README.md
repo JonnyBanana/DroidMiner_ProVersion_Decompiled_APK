@@ -35,7 +35,7 @@ https://www.virustotal.com/it/file/ef9f77781471b6c8e584e5a3c29e3c00dfd1ee4dcb6c0
 ![Alt text](https://github.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/blob/master/images/virustotalscanzip.JPG)
 
 So I took the opportunity to study a little apk and the code behind it, </BR>
-and I disassembled the apk with a simple online service:
+and I decompiled the apk with a simple online service:
 
 http://www.javadecompilers.com/apk
 
