@@ -22,7 +22,7 @@ https://www.virustotal.com/it/file/2c5a8bbd71988a5b4788960e6709d9158d9a7c3b68860
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/virustotalscanapk.JPG)
 
-the funny thing is that if you try to scan the apk (find both files in the folder TESTS !!!) on total virus the file is infected for 19 vendors while if you scan the zip only 10 vendors detect it as malware, it is not the first time it happens, obviously some vendors have trouble detecting viruses with compressed format files...
+The funny thing is that if you try to scan the apk (find both files in the folder TESTS !!!) on total virus the file is infected for 19 vendors while if you scan the zip only 10 vendors detect it as malware, it is not the first time it happens, obviously some vendors have trouble detecting viruses with compressed format files...
 
 https://www.virustotal.com/it/file/ef9f77781471b6c8e584e5a3c29e3c00dfd1ee4dcb6c0e7168d0fd5160e9ebba/analysis/1538536264/
 
