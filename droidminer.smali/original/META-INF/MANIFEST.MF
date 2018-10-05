@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: STJ4IvmiTp6vrUnSoGI905zZRiM=
+
+Name: res/menu/menu.xml
+SHA1-Digest: NBn2n7WXX8/TXMRc97rOsmzdrqA=
+
+Name: res/drawable-ldpi-v4/litecoin.png
+SHA1-Digest: Ybb7RDlkSdZywsZA+J7OF908QDw=
+
+Name: resources.arsc
+SHA1-Digest: wuusdIcvn1NfsNhj5Lvg7riUHEw=
+
+Name: res/raw/minerd
+SHA1-Digest: GV87vHBII3lW1JEydIfr0xRceR0=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: FULrO6yb67iLsEpbM/a1RtAInCA=
+
+Name: classes.dex
+SHA1-Digest: kr0/ofTGJMtheKxhUGW9IWcsOlA=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: 6hAQSuPFGkBJAbeDVK61FMEOlfM=
+
+Name: res/layout/main.xml
+SHA1-Digest: SFYIzgLICIFUFRvg0+hkDYJD3gA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 7C479ItcRBjU9AtiUsaXyCXQyY8=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: CMMVx8aurfF4BmWb9zUBVYkEbcQ=
+
+Name: res/drawable-mdpi-v4/litecoin.png
+SHA1-Digest: Ybb7RDlkSdZywsZA+J7OF908QDw=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: i7vxaosoiS+9HzKB7ZgIsXMYRLY=
+
+Name: res/drawable-hdpi-v4/litecoin.png
+SHA1-Digest: Ybb7RDlkSdZywsZA+J7OF908QDw=
+
