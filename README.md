@@ -62,6 +62,17 @@ https://www.virustotal.com/it/file/4b5109927d61090087cdfcd7eacdec5910d9674773bbc
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/realmalware.JPG)
 
 
+Then I decompiled the apk manually with the mythical apktool.
+
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Decompiledled_APK/master/images/apk-tool.png)
+
+This is because the online decompilers pull out the java code, but for the cracking of android they need the files in smal language (a kind of assembly code).
+
+In the folder droidminer.smali you find the apk file decompiled with apktool
+
+For now I have performed only a brief analysis, and first I noticed that the apk modified with lucky patcher did not touch the classic string "CHECK_LICENSE" contained in 'AndroidManifest.xml
+
+
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/CHECK_LICENSE.JPG)
 
 
