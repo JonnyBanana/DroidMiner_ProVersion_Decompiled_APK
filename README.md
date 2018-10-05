@@ -55,12 +55,6 @@ https://www.virustotal.com/it/file/4b5109927d61090087cdfcd7eacdec5910d9674773bbc
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/realmalware.JPG)
 
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/realmalware.JPG)
-
-
-
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/realmalware.JPG)
-
 </BR>
 
 Then I decompiled the apk manually with the the legendary apktool.
