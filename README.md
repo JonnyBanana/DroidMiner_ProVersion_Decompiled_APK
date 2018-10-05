@@ -61,6 +61,7 @@ https://www.virustotal.com/it/file/4b5109927d61090087cdfcd7eacdec5910d9674773bbc
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/realmalware.JPG)
 
+</BR>
 
 Then I decompiled the apk manually with the mythical apktool.
 
@@ -75,5 +76,52 @@ For now I have performed only a brief analysis, and first I noticed that the apk
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/CHECK_LICENSE.JPG)
 
+
+</BR>
+
+The patch is probably contained in the LicenseChecker.smali file that you can find in the smali \ com \ google \ android \ vending \ licensing path
+
+I have not analyzed the crack yet, but as soon as I do it I will post the results.
+
+In any case, the most suspicious users can sleep peacefully and analyze the code, so as to ensure that there are no trojans, rat, etc.
+
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/pics-3.png)
+
+
+Finally placed a series of links to articles and resources on reverse engineering of the apk, the android security, LVL, etc., personally I have been very useful.
+
+https://iosgods.com/topic/65627-bypassing-google-license-check-harry-potter-hogwarts-mystery-example-smali/
+
+https://developer.android.com/google/play/licensing/adding-licensing
+
+https://samsclass.info/128/proj/p9-decom.htm
+
+https://www.html.it/articoli/decompilare-ed-offuscare-il-codice-di-unapp-android/
+
+http://androidcracking.blogspot.com/2010/09/examplesmali.html
+
+http://androidcracking.blogspot.com/2010/10/android-market-license-validation.html
+
+https://pastebin.com/cFddguZX
+
+http://www.androidlab.it/il-sistema-di-licenza-del-market-android-cose-e-come-rafforzarlo-4800/
+
+https://bhumishgajjar.wordpress.com/2017/12/16/bypass-root-detection-in-android-by-modifying-the-apk/
+
+https://ibotpeaches.github.io/Apktool/
+
+https://julianberton.com/2015/01/30/root-detection-bypass/
+
+http://nanoloop.site44.com/
+
+https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/
+
+https://stackoverflow.com/questions/13445598/lucky-patcher-how-can-i-protect-from-it
+
+https://android-developers.googleblog.com/2010/09/securing-android-lvl-applications.html
+
+https://www.androidpolice.com/2010/08/23/exclusive-report-googles-android-market-license-verification-easily-circumvented-will-not-stop-pirates/
+
+http://www.necronet.info/2011/12/hacking-android-lvl-cracking.html
 
 
