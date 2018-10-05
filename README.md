@@ -1,5 +1,5 @@
 # DroidMiner_ProVersion_Decompiled_APK
-Source Code of Droid Miner PRO Apk, that I just extract the modded apk with lucky patcher, and then I decompiled
+Source Code of Droid Miner PRO Apk, that I just extract the modded apk with lucky patcher, and then i decompiled
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/com.jordanrulz.droidbtc-w130.png)
 
@@ -83,7 +83,7 @@ In any case, the most suspicious users can sleep peacefully and analyze the code
 
 
 Finally placed a series of links to articles and resources on reverse engineering of the apk, android security, LVL, etc., </BR>
-personally I have been very useful.
+personally i have been very useful.
 
 https://iosgods.com/topic/65627-bypassing-google-license-check-harry-potter-hogwarts-mystery-example-smali/
 
