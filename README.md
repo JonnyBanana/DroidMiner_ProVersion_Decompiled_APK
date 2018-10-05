@@ -82,7 +82,8 @@ In any case, the most suspicious users can sleep peacefully and analyze the code
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/pics-3.png)
 
 
-Finally placed a series of links to articles and resources on reverse engineering of the apk, android security, LVL, etc., personally I have been very useful.
+Finally placed a series of links to articles and resources on reverse engineering of the apk, android security, LVL, etc., </BR>
+personally I have been very useful.
 
 https://iosgods.com/topic/65627-bypassing-google-license-check-harry-potter-hogwarts-mystery-example-smali/
 
