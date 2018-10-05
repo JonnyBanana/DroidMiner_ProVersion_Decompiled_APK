@@ -1,4 +1,4 @@
-# DroidMiner_ProVersion_Disassembled_APK
+# DroidMiner_ProVersion_Decompiled_APK
 Source Code of Droid Miner PRO Apk, that I just extract the apk with lucky patcher, and then I decompiled
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/com.jordanrulz.droidbtc-w130.png)
@@ -53,6 +53,16 @@ and as many as 27 vendors on VirusTotal have detected it as malware!
 https://www.virustotal.com/it/file/4b5109927d61090087cdfcd7eacdec5910d9674773bbcac764f8ddf260a55ea2/analysis/1538536221/
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/realmalware.JPG)
+
+
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/realmalware.JPG)
+
+
+
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/realmalware.JPG)
+
+
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/CHECK_LICENSE.JPG)
 
 
 
