@@ -63,7 +63,7 @@ https://www.virustotal.com/it/file/4b5109927d61090087cdfcd7eacdec5910d9674773bbc
 
 </BR>
 
-Then I decompiled the apk manually with the mythical apktool.
+Then I decompiled the apk manually with the the legendary apktool.
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Decompiledled_APK/master/images/apk-tool.png)
 
