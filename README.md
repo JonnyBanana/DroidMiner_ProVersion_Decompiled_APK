@@ -1,5 +1,5 @@
 # DroidMiner_ProVersion_Decompiled_APK
-Source Code of Droid Miner PRO Apk, that I just extract the apk with lucky patcher, and then I decompiled
+Source Code of Droid Miner PRO Apk, that I just extract the modded apk with lucky patcher, and then I decompiled
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/DroidMiner_ProVersion_Disassembled_APK/master/images/com.jordanrulz.droidbtc-w130.png)
 
